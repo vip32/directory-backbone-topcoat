@@ -2,6 +2,7 @@
   "name": "directory-backbone-topcoat-phonegap",
   "version": "1.0.0.0",
   "dependencies": {
+    "cordova": "~2.8.0",
     "jquery": "~2.0.3",
     "topcoat": "~0.0.0",
     "backbone": "~1.0.0",
