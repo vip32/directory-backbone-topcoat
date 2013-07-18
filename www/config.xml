@@ -8,7 +8,7 @@
     <name>Employee Directory (Topcoat)</name>
 
     <description>
-        A simple employee directory application, using Topcoat
+        A simple employee directory application, using Topcoat and Cordova
     </description>
 
     <author href="http://coenraets.org" email="doconnor@gmail.com">
